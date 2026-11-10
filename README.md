@@ -13,3 +13,4 @@ Casi todo mi trabajo vive en repositorios internos. Lo que publico aquí son her
 
 - **[network-troubleshooting](https://github.com/b14nc0/network-troubleshooting)** — Imagen Docker con ping, curl, netcat, tcpdump y nslookup para depurar red dentro de un clúster de Kubernetes.
 - **[spellbook8s](https://github.com/b14nc0/spellbook8s)** — Script en Bash para crear, arrancar, parar y eliminar clústeres de Kubernetes con Vagrant y VirtualBox.
+- **[devContainer](https://github.com/b14nc0/devContainer)** — Plantilla de Dev Container para IaC y Kubernetes: Ubuntu 24.04 con Docker-in-Docker, y Terraform, Terragrunt, kubectl, Helm o Azure CLI activables con una variable.
